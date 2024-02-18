@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/nilton-cantanhede-vieira-b263051bb)
 
 
-![Nilton GitHub stats](https://github-readme-stats.vercel.app/api?username=Niltondevpro&show_icons=true&theme=radical)
+![Nilton GitHub stats](https://github-readme-stats.vercel.app/api?username=Niltondevpro&show_icons=true&theme=cobalt)
 
 
 ### Tecnologias que uso no meu dia
@@ -17,5 +17,7 @@
 <img aling="center" alt="PYTHON" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" >
 
 </div></br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 ### Apaixonado por tecnologia e gosto de resolver problemas relacionados a sistemas e aplicações.
