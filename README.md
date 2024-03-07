@@ -20,4 +20,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
-### Apaixonado por tecnologia e gosto de resolver problemas relacionados a sistemas e aplicações.
+### Gosto de resolver problemas relacionados a sistemas e aplicações.
