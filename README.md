@@ -8,7 +8,7 @@
 ![Nilton GitHub stats](https://github-readme-stats.vercel.app/api?username=Niltondevpro&show_icons=true&theme=radical)
 
 
-### Tecnologias que uso no meu dia
+### Projetos
 
 <div style="display: inline_block"><br/>
 <img aling="center" alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" >
